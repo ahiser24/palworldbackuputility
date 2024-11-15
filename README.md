@@ -1,6 +1,7 @@
 # Palworld Backup Utility
 
 This script is a utility for backing up and restoring the save files of **Palworld**. It also allows users to schedule automatic backups and manage backup locations. This tool is ideal for those who want to automate their save file backups and ensure they can restore their progress if needed.
+![Palworld Backup Logo](screenshot.png)
 
 ## Features
 - **Backup Save Files**: Creates a zip backup of your save files.
